@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+venv/
+*.log
+__pycache__/
+run_info.txt
